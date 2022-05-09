@@ -6,7 +6,7 @@
   <link href="https://pyx-2021.github.io/pyx-2021.github.io/atom.xml" rel="self"/>
   
   <link href="https://pyx-2021.github.io/pyx-2021.github.io/"/>
-  <updated>2022-05-07T14:10:33.719Z</updated>
+  <updated>2022-05-09T20:13:38.625Z</updated>
   <id>https://pyx-2021.github.io/pyx-2021.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://pyx-2021.github.io/pyx-2021.github.io/test-1/"/>
+    <id>https://pyx-2021.github.io/pyx-2021.github.io/test-1/</id>
+    <published>2022-05-09T20:13:38.000Z</published>
+    <updated>2022-05-09T20:13:38.625Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://pyx-2021.github.io/pyx-2021.github.io/test/"/>
+    <id>https://pyx-2021.github.io/pyx-2021.github.io/test/</id>
+    <published>2022-05-09T20:08:30.000Z</published>
+    <updated>2022-05-09T20:08:30.683Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>prof</title>
@@ -34,7 +60,7 @@
     <link href="https://pyx-2021.github.io/pyx-2021.github.io/hello-world/"/>
     <id>https://pyx-2021.github.io/pyx-2021.github.io/hello-world/</id>
     <published>2022-05-07T10:42:40.261Z</published>
-    <updated>2022-05-08T10:24:51.621Z</updated>
+    <updated>2022-05-09T20:06:15.332Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Welcome"><a href="#Welcome" class="headerlink" title="Welcome"></a>Welcome</h2><p>Welcome to my 1<sup>st</sup> <a href="https://pyx-2021.github.io/">csblog</a>!!!<br>This is my personal GitHub Pages, and you’re welcome to visit.<br>For more info about the author, check <a href="https://pyx-2021.github.io/about/me">About Me</a>.</p><h3 id="What’s-For"><a href="#What’s-For" class="headerlink" title="What’s For?"></a>What’s For?</h3><h4 id="Record-learning-routes"><a href="#Record-learning-routes" class="headerlink" title="Record learning routes"></a>Record learning routes</h4><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure><h4 id="Upload-CS-notes"><a href="#Upload-CS-notes" class="headerlink" title="Upload CS notes"></a>Upload CS notes</h4><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure><h4 id="Go-familiar-with-web-stacks"><a href="#Go-familiar-with-web-stacks" class="headerlink" title="Go familiar with web-stacks"></a>Go familiar with web-stacks</h4><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure>]]></content>
     

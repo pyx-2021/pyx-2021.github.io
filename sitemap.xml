@@ -2,9 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://pyx-2021.github.io/pyx-2021.github.io/test-1/</loc>
+    
+    <lastmod>2022-05-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://pyx-2021.github.io/pyx-2021.github.io/NEW-PAGE/</loc>
+    
+    <lastmod>2022-05-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://pyx-2021.github.io/pyx-2021.github.io/test/</loc>
+    
+    <lastmod>2022-05-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://pyx-2021.github.io/pyx-2021.github.io/hello-world/</loc>
     
-    <lastmod>2022-05-08</lastmod>
+    <lastmod>2022-05-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
