@@ -5,8 +5,8 @@
     
     <entry>
       <title>prof</title>
-      <link href="/pyx-2021.github.io/prof/"/>
-      <url>/pyx-2021.github.io/prof/</url>
+      <link href="/pyx-2021/pyx-2021.github.io/prof/"/>
+      <url>/pyx-2021/pyx-2021.github.io/prof/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -18,8 +18,8 @@
     
     <entry>
       <title>Intro</title>
-      <link href="/pyx-2021.github.io/hello-world/"/>
-      <url>/pyx-2021.github.io/hello-world/</url>
+      <link href="/pyx-2021/pyx-2021.github.io/hello-world/"/>
+      <url>/pyx-2021/pyx-2021.github.io/hello-world/</url>
       
         <content type="html"><![CDATA[<h2 id="Welcome"><a href="#Welcome" class="headerlink" title="Welcome"></a>Welcome</h2><p>Welcome to my 1<sup>st</sup> <a href="https://pyx-2021.github.io/">csblog</a>!!!<br>This is my personal GitHub Pages, and you’re welcome to visit.<br>For more info about the author, check <a href="https://pyx-2021.github.io/about/me">About Me</a>.</p><h3 id="What’s-For"><a href="#What’s-For" class="headerlink" title="What’s For?"></a>What’s For?</h3><h4 id="Record-learning-routes"><a href="#Record-learning-routes" class="headerlink" title="Record learning routes"></a>Record learning routes</h4><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure><h4 id="Upload-CS-notes"><a href="#Upload-CS-notes" class="headerlink" title="Upload CS notes"></a>Upload CS notes</h4><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure><h4 id="Go-familiar-with-web-stacks"><a href="#Go-familiar-with-web-stacks" class="headerlink" title="Go familiar with web-stacks"></a>Go familiar with web-stacks</h4><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure>]]></content>
       
