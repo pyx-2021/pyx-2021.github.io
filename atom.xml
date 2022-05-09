@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>xylia pei&#39;s csblog</title>
+  
+  
+  <link href="https://github.com/pyx-csblog/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/pyx-csblog/"/>
+  <updated>2022-05-07T14:10:33.719Z</updated>
+  <id>https://github.com/pyx-csblog/</id>
+  
+  <author>
+    <name>裴昱行</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>prof</title>
+    <link href="https://github.com/pyx-csblog/prof/"/>
+    <id>https://github.com/pyx-csblog/prof/</id>
+    <published>2022-05-07T11:12:35.000Z</published>
+    <updated>2022-05-07T14:10:33.719Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Intro</title>
+    <link href="https://github.com/pyx-csblog/hello-world/"/>
+    <id>https://github.com/pyx-csblog/hello-world/</id>
+    <published>2022-05-07T10:42:40.261Z</published>
+    <updated>2022-05-08T10:24:51.621Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Welcome"><a href="#Welcome" class="headerlink" title="Welcome"></a>Welcome</h2><p>Welcome to my 1<sup>st</sup> <a href="https://pyx-2021.github.io/">csblog</a>!!!<br>This is my personal GitHub Pages, and you’re welcome to visit.<br>For more info about the author, check <a href="https://pyx-2021.github.io/about/me">About Me</a>.</p><h3 id="What’s-For"><a href="#What’s-For" class="headerlink" title="What’s For?"></a>What’s For?</h3><h4 id="Record-learning-routes"><a href="#Record-learning-routes" class="headerlink" title="Record learning routes"></a>Record learning routes</h4><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure><h4 id="Upload-CS-notes"><a href="#Upload-CS-notes" class="headerlink" title="Upload CS notes"></a>Upload CS notes</h4><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure><h4 id="Go-familiar-with-web-stacks"><a href="#Go-familiar-with-web-stacks" class="headerlink" title="Go familiar with web-stacks"></a>Go familiar with web-stacks</h4><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Welcome&quot;&gt;&lt;a href=&quot;#Welcome&quot; class=&quot;headerlink&quot; title=&quot;Welcome&quot;&gt;&lt;/a&gt;Welcome&lt;/h2&gt;&lt;p&gt;Welcome to my 1&lt;sup&gt;st&lt;/sup&gt; &lt;a href=&quot;https://pyx-</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
