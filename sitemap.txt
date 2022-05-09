@@ -1,4 +1,4 @@
-https://github.com/pyx-2021/pyx-2021.github.io/hello-world/
-https://github.com/pyx-2021/pyx-2021.github.io/about/me.html
-https://github.com/pyx-2021/pyx-2021.github.io/prof/
-https://github.com/pyx-2021/pyx-2021.github.io
+https://pyx-2021.github.io/hello-world/
+https://pyx-2021.github.io/about/me.html
+https://pyx-2021.github.io/prof/
+https://pyx-2021.github.io/

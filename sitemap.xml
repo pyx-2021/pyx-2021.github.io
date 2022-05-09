@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://github.com/pyx-2021/pyx-2021.github.io/hello-world/</loc>
+    <loc>https://pyx-2021.github.io/hello-world/</loc>
     
     <lastmod>2022-05-08</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://github.com/pyx-2021/pyx-2021.github.io/about/me.html</loc>
+    <loc>https://pyx-2021.github.io/about/me.html</loc>
     
     <lastmod>2022-05-07</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://github.com/pyx-2021/pyx-2021.github.io/prof/</loc>
+    <loc>https://pyx-2021.github.io/prof/</loc>
     
     <lastmod>2022-05-07</lastmod>
     
@@ -30,7 +30,7 @@
   
 
   <url>
-    <loc>https://github.com/pyx-2021/pyx-2021.github.io</loc>
+    <loc>https://pyx-2021.github.io/</loc>
     <lastmod>2022-05-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
