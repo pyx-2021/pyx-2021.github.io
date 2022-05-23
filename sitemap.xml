@@ -4,52 +4,7 @@
   <url>
     <loc>https://pyx-2021.github.io/pyx-2021.github.io/hello-world/</loc>
     
-    <lastmod>2022-05-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://pyx-2021.github.io/pyx-2021.github.io/test-1/</loc>
-    
-    <lastmod>2022-05-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://pyx-2021.github.io/pyx-2021.github.io/NEW-PAGE/</loc>
-    
-    <lastmod>2022-05-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://pyx-2021.github.io/pyx-2021.github.io/test/</loc>
-    
-    <lastmod>2022-05-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://pyx-2021.github.io/pyx-2021.github.io/about/me.html</loc>
-    
-    <lastmod>2022-05-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://pyx-2021.github.io/pyx-2021.github.io/prof/</loc>
-    
-    <lastmod>2022-05-07</lastmod>
+    <lastmod>2022-05-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,12 +13,33 @@
 
   <url>
     <loc>https://pyx-2021.github.io/pyx-2021.github.io</loc>
-    <lastmod>2022-05-10</lastmod>
+    <lastmod>2022-05-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>https://pyx-2021.github.io/pyx-2021.github.io/tags/hexo/</loc>
+    <lastmod>2022-05-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://pyx-2021.github.io/pyx-2021.github.io/tags/blog/</loc>
+    <lastmod>2022-05-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://pyx-2021.github.io/pyx-2021.github.io/categories/introduction/</loc>
+    <lastmod>2022-05-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
