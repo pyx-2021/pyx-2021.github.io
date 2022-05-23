@@ -29,20 +29,6 @@
 
   
   <url>
-    <loc>https://blog.peiyuxing.xyz/tags/blog/</loc>
-    <lastmod>2022-05-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.peiyuxing.xyz/tags/welcome/</loc>
-    <lastmod>2022-05-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.peiyuxing.xyz/tags/note/</loc>
     <lastmod>2022-05-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -56,17 +42,31 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>https://blog.peiyuxing.xyz/categories/introduction/</loc>
+    <loc>https://blog.peiyuxing.xyz/tags/blog/</loc>
     <lastmod>2022-05-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
+    <loc>https://blog.peiyuxing.xyz/tags/welcome/</loc>
+    <lastmod>2022-05-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
     <loc>https://blog.peiyuxing.xyz/categories/introduction-CSAPP/</loc>
+    <lastmod>2022-05-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.peiyuxing.xyz/categories/introduction/</loc>
     <lastmod>2022-05-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
