@@ -3,11 +3,11 @@
   <title>xylia pei csblog</title>
   
   <subtitle>Good morning! And in case i don&#39;t see you, good afternoon, good evening, and goodnight!</subtitle>
-  <link href="https://pyx-2021.github.io/pyx-2021.github.io/atom.xml" rel="self"/>
+  <link href="https://blog.peiyuxing.xyz/atom.xml" rel="self"/>
   
-  <link href="https://pyx-2021.github.io/pyx-2021.github.io/"/>
-  <updated>2022-05-23T16:00:37.738Z</updated>
-  <id>https://pyx-2021.github.io/pyx-2021.github.io/</id>
+  <link href="https://blog.peiyuxing.xyz/"/>
+  <updated>2022-05-23T18:50:18.582Z</updated>
+  <id>https://blog.peiyuxing.xyz/</id>
   
   <author>
     <name>裴昱行</name>
@@ -17,30 +17,58 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Introduction to my website</title>
-    <link href="https://pyx-2021.github.io/pyx-2021.github.io/hello-world/"/>
-    <id>https://pyx-2021.github.io/pyx-2021.github.io/hello-world/</id>
+    <title>CSAPP-前言</title>
+    <link href="https://blog.peiyuxing.xyz/IntroCSAPP/"/>
+    <id>https://blog.peiyuxing.xyz/IntroCSAPP/</id>
+    <published>2022-05-23T18:47:51.000Z</published>
+    <updated>2022-05-23T18:50:18.582Z</updated>
+    
+    
+    
+    
+    <category term="introduction - CSAPP" scheme="https://blog.peiyuxing.xyz/categories/introduction-CSAPP/"/>
+    
+    
+    <category term="note" scheme="https://blog.peiyuxing.xyz/tags/note/"/>
+    
+    <category term="CSAPP" scheme="https://blog.peiyuxing.xyz/tags/CSAPP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Introduction to this website</title>
+    <link href="https://blog.peiyuxing.xyz/IntroPost/"/>
+    <id>https://blog.peiyuxing.xyz/IntroPost/</id>
     <published>2022-05-07T10:42:40.261Z</published>
-    <updated>2022-05-23T16:00:37.738Z</updated>
+    <updated>2022-05-23T18:44:33.467Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Welcome"><a href="#Welcome" class="headerlink" title="Welcome"></a>Welcome</h2><p>Welcome to my 1<sup>st</sup>  <a href="https://pyx-2021.github.io/">csblog</a>!!!<br>This is my personal GitHub Pages, and you’re welcome to visit.<br>For more info about the author, check <a href="https://pyx-2021.github.io/about/me">About Me</a>.</p><h3 id="What’s-For"><a href="#What’s-For" class="headerlink" title="What’s For?"></a>What’s For?</h3><h4 id="Record-learning-routes"><a href="#Record-learning-routes" class="headerlink" title="Record learning routes"></a>Record learning routes</h4><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new </span><br></pre></td></tr></tbody></table></figure><h4 id="Upload-CS-notes"><a href="#Upload-CS-notes" class="headerlink" title="Upload CS notes"></a>Upload CS notes</h4><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure><h4 id="Go-familiar-with-web-stacks"><a href="#Go-familiar-with-web-stacks" class="headerlink" title="Go familiar with web-stacks"></a>Go familiar with web-stacks</h4><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure><span id="more"></span><figure class="highlight c"><figcaption><span>可选文件名 &gt;folded</span></figcaption><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">???</span><br></pre></td></tr></tbody></table></figure>]]></content>
-    
-    
-    <summary type="html">&lt;h2 id=&quot;Welcome&quot;&gt;&lt;a href=&quot;#Welcome&quot; class=&quot;headerlink&quot; title=&quot;Welcome&quot;&gt;&lt;/a&gt;Welcome&lt;/h2&gt;&lt;p&gt;Welcome to my 1&lt;sup&gt;st&lt;/sup&gt;  &lt;a href=&quot;https://pyx-2021.github.io/&quot;&gt;csblog&lt;/a&gt;!!!&lt;br&gt;This is my personal GitHub Pages, and you’re welcome to visit.&lt;br&gt;For more info about the author, check &lt;a href=&quot;https://pyx-2021.github.io/about/me&quot;&gt;About Me&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&quot;What’s-For&quot;&gt;&lt;a href=&quot;#What’s-For&quot; class=&quot;headerlink&quot; title=&quot;What’s For?&quot;&gt;&lt;/a&gt;What’s For?&lt;/h3&gt;&lt;h4 id=&quot;Record-learning-routes&quot;&gt;&lt;a href=&quot;#Record-learning-routes&quot; class=&quot;headerlink&quot; title=&quot;Record learning routes&quot;&gt;&lt;/a&gt;Record learning routes&lt;/h4&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;h4 id=&quot;Upload-CS-notes&quot;&gt;&lt;a href=&quot;#Upload-CS-notes&quot; class=&quot;headerlink&quot; title=&quot;Upload CS notes&quot;&gt;&lt;/a&gt;Upload CS notes&lt;/h4&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;h4 id=&quot;Go-familiar-with-web-stacks&quot;&gt;&lt;a href=&quot;#Go-familiar-with-web-stacks&quot; class=&quot;headerlink&quot; title=&quot;Go familiar with web-stacks&quot;&gt;&lt;/a&gt;Go familiar with web-stacks&lt;/h4&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+    <content type="html"><![CDATA[<p>Welcome to my 1<sup>st</sup>  <a href="https://pyx-2021.github.io/">csblog</a>!!!</p><p>For more info about the author, check <a href="https://pyx-2021.github.io/about/me">About Me</a>.</p><h3 id="Objectives"><a href="#Objectives" class="headerlink" title="Objectives"></a>Objectives</h3><h4 id="Record-Learning-Route"><a href="#Record-Learning-Route" class="headerlink" title="Record Learning Route"></a>Record Learning Route</h4><ul><li>Data Structure</li><li>Operation System</li><li>Copmuter Organization</li><li>Computer Networking</li><li>Database System</li><li>SYstem Programming</li></ul><h4 id="Upload-Notes"><a href="#Upload-Notes" class="headerlink" title="Upload Notes"></a>Upload Notes</h4><ul><li>CSAPP</li><li>…</li></ul><h4 id="Personal-Profile"><a href="#Personal-Profile" class="headerlink" title="Personal Profile"></a>Personal Profile</h4><span id="more"></span><figure class="highlight c"><figcaption><span>可选文件名 &gt;folded</span></figcaption><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">???</span><br></pre></td></tr></tbody></table></figure>]]></content>
     
     
+    <summary type="html">&lt;p&gt;Welcome to my 1&lt;sup&gt;st&lt;/sup&gt;  &lt;a href=&quot;https://pyx-2021.github.io/&quot;&gt;csblog&lt;/a&gt;!!!&lt;/p&gt;
+&lt;p&gt;For more info about the author, check &lt;a href=&quot;https://pyx-2021.github.io/about/me&quot;&gt;About Me&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&quot;Objectives&quot;&gt;&lt;a href=&quot;#Objectives&quot; class=&quot;headerlink&quot; title=&quot;Objectives&quot;&gt;&lt;/a&gt;Objectives&lt;/h3&gt;&lt;h4 id=&quot;Record-Learning-Route&quot;&gt;&lt;a href=&quot;#Record-Learning-Route&quot; class=&quot;headerlink&quot; title=&quot;Record Learning Route&quot;&gt;&lt;/a&gt;Record Learning Route&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Data Structure&lt;/li&gt;
+&lt;li&gt;Operation System&lt;/li&gt;
+&lt;li&gt;Copmuter Organization&lt;/li&gt;
+&lt;li&gt;Computer Networking&lt;/li&gt;
+&lt;li&gt;Database System&lt;/li&gt;
+&lt;li&gt;SYstem Programming&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;Upload-Notes&quot;&gt;&lt;a href=&quot;#Upload-Notes&quot; class=&quot;headerlink&quot; title=&quot;Upload Notes&quot;&gt;&lt;/a&gt;Upload Notes&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;CSAPP&lt;/li&gt;
+&lt;li&gt;…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;Personal-Profile&quot;&gt;&lt;a href=&quot;#Personal-Profile&quot; class=&quot;headerlink&quot; title=&quot;Personal Profile&quot;&gt;&lt;/a&gt;Personal Profile&lt;/h4&gt;</summary>
     
-    <category term="introduction" scheme="https://pyx-2021.github.io/pyx-2021.github.io/categories/introduction/"/>
     
     
-    <category term="hexo" scheme="https://pyx-2021.github.io/pyx-2021.github.io/tags/hexo/"/>
+    <category term="introduction" scheme="https://blog.peiyuxing.xyz/categories/introduction/"/>
     
-    <category term="blog" scheme="https://pyx-2021.github.io/pyx-2021.github.io/tags/blog/"/>
+    
+    <category term="blog" scheme="https://blog.peiyuxing.xyz/tags/blog/"/>
+    
+    <category term="welcome" scheme="https://blog.peiyuxing.xyz/tags/welcome/"/>
     
   </entry>
   
