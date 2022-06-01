@@ -6,7 +6,7 @@
   <link href="https://blog.peiyuxing.xyz/atom.xml" rel="self"/>
   
   <link href="https://blog.peiyuxing.xyz/"/>
-  <updated>2022-06-01T13:12:08.292Z</updated>
+  <updated>2022-06-01T13:42:04.943Z</updated>
   <id>https://blog.peiyuxing.xyz/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.peiyuxing.xyz/Make-Tutorial/"/>
     <id>https://blog.peiyuxing.xyz/Make-Tutorial/</id>
     <published>2022-06-01T12:52:37.000Z</published>
-    <updated>2022-06-01T13:12:08.292Z</updated>
+    <updated>2022-06-01T13:42:04.943Z</updated>
     
     <content type="html"><![CDATA[<p>一个简单的make教程，结合了本人的使用经验以及官方文档，总结的最为实用的make知识。</p><p>先占坑，把PDF和视频放上来，文字部分以后有空再补。</p><p>教授要求英文，作者口语不好，建议直接看PDF就好了。<br>更新：视频太大了，而且质量也不高，就不传了。</p><span id="more"></span><center><embed src="/Make-Tutorial/Make.pdf" width="1000" height="800"></center>]]></content>
     
