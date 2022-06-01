@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>xylia pei csblog</title>
   
-  <subtitle>Good morning! And in case i don&#39;t see you, good afternoon, good evening, and goodnight!</subtitle>
+  
   <link href="https://blog.peiyuxing.xyz/atom.xml" rel="self"/>
   
   <link href="https://blog.peiyuxing.xyz/"/>
-  <updated>2022-05-23T20:18:48.111Z</updated>
+  <updated>2022-06-01T13:12:08.292Z</updated>
   <id>https://blog.peiyuxing.xyz/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Make Tutorial</title>
+    <link href="https://blog.peiyuxing.xyz/Make-Tutorial/"/>
+    <id>https://blog.peiyuxing.xyz/Make-Tutorial/</id>
+    <published>2022-06-01T12:52:37.000Z</published>
+    <updated>2022-06-01T13:12:08.292Z</updated>
+    
+    <content type="html"><![CDATA[<p>一个简单的make教程，结合了本人的使用经验以及官方文档，总结的最为实用的make知识。</p><p>先占坑，把PDF和视频放上来，文字部分以后有空再补。</p><p>教授要求英文，作者口语不好，建议直接看PDF就好了。<br>更新：视频太大了，而且质量也不高，就不传了。</p><span id="more"></span><center><embed src="/Make-Tutorial/Make.pdf" width="1000" height="800"></center>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;一个简单的make教程，结合了本人的使用经验以及官方文档，总结的最为实用的make知识。&lt;/p&gt;
+&lt;p&gt;先占坑，把PDF和视频放上来，文字部分以后有空再补。&lt;/p&gt;
+&lt;p&gt;教授要求英文，作者口语不好，建议直接看PDF就好了。&lt;br&gt;更新：视频太大了，而且质量也不高，就不传了。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Linux" scheme="https://blog.peiyuxing.xyz/categories/Linux/"/>
+    
+    <category term="make" scheme="https://blog.peiyuxing.xyz/categories/Linux/make/"/>
+    
+    
+    <category term="tutorial" scheme="https://blog.peiyuxing.xyz/tags/tutorial/"/>
+    
+  </entry>
+  
+  <entry>
     <title>CSAPP-前言</title>
     <link href="https://blog.peiyuxing.xyz/IntroCSAPP/"/>
     <id>https://blog.peiyuxing.xyz/IntroCSAPP/</id>
     <published>2022-05-23T18:47:51.000Z</published>
-    <updated>2022-05-23T20:18:48.111Z</updated>
+    <updated>2022-06-01T12:59:46.566Z</updated>
     
     
     
@@ -40,20 +65,34 @@
     <link href="https://blog.peiyuxing.xyz/IntroPost/"/>
     <id>https://blog.peiyuxing.xyz/IntroPost/</id>
     <published>2022-05-07T10:42:40.261Z</published>
-    <updated>2022-05-23T19:47:40.073Z</updated>
+    <updated>2022-05-29T21:25:24.329Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to my 1<sup>st</sup>  <a href="https://pyx-2021.github.io/">csblog</a>!!!</p><p>For more info about the author, check <a href="https://pyx-2021.github.io/about/me">About Me</a>.</p><h3 id="Objectives"><a href="#Objectives" class="headerlink" title="Objectives"></a>Objectives</h3><h4 id="Record-Learning-Route"><a href="#Record-Learning-Route" class="headerlink" title="Record Learning Route"></a>Record Learning Route</h4><ul><li>Data Structure</li><li>Operation System</li><li>Copmuter Organization</li><li>Computer Networking</li><li>Database System</li><li>System Programming</li></ul><h4 id="Upload-Notes"><a href="#Upload-Notes" class="headerlink" title="Upload Notes"></a>Upload Notes</h4><ul><li>CSAPP</li><li>…</li></ul><h4 id="Personal-Profile"><a href="#Personal-Profile" class="headerlink" title="Personal Profile"></a>Personal Profile</h4><span id="more"></span><figure class="highlight c"><figcaption><span>可选文件名 &gt;folded</span></figcaption><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">???</span><br></pre></td></tr></tbody></table></figure>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to my 1<sup>st</sup>  <a href="https://pyx-2021.github.io/">csblog</a>!!!</p><p>For more info about the author, check <a href="https://pyx-2021.github.io/about/me">About Me</a>.</p><h3 id="Objectives"><a href="#Objectives" class="headerlink" title="Objectives"></a>Objectives</h3><h4 id="Record-Learning-Route"><a href="#Record-Learning-Route" class="headerlink" title="Record Learning Route"></a>Record Learning Route</h4><ul><li><p>Linear Algebra</p></li><li><p>Probabilities</p></li><li><p>Information Technology</p></li><li><p>Data Structure</p></li><li><p>Operation System</p></li><li><p>Logic Design</p></li><li><p>Computer Organization</p></li><li><p>Computer Networking</p></li><li><p>Database System</p></li><li><p>System Programming</p></li></ul><h4 id="Upload-Notes"><a href="#Upload-Notes" class="headerlink" title="Upload Notes"></a>Upload Notes</h4><ul><li>CSAPP</li><li>…</li></ul><h4 id="Personal-Profile"><a href="#Personal-Profile" class="headerlink" title="Personal Profile"></a>Personal Profile</h4><span id="more"></span><figure class="highlight c"><figcaption><span>可选文件名 &gt;folded</span></figcaption><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">???</span><br></pre></td></tr></tbody></table></figure>]]></content>
     
     
     <summary type="html">&lt;p&gt;Welcome to my 1&lt;sup&gt;st&lt;/sup&gt;  &lt;a href=&quot;https://pyx-2021.github.io/&quot;&gt;csblog&lt;/a&gt;!!!&lt;/p&gt;
 &lt;p&gt;For more info about the author, check &lt;a href=&quot;https://pyx-2021.github.io/about/me&quot;&gt;About Me&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&quot;Objectives&quot;&gt;&lt;a href=&quot;#Objectives&quot; class=&quot;headerlink&quot; title=&quot;Objectives&quot;&gt;&lt;/a&gt;Objectives&lt;/h3&gt;&lt;h4 id=&quot;Record-Learning-Route&quot;&gt;&lt;a href=&quot;#Record-Learning-Route&quot; class=&quot;headerlink&quot; title=&quot;Record Learning Route&quot;&gt;&lt;/a&gt;Record Learning Route&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;Data Structure&lt;/li&gt;
-&lt;li&gt;Operation System&lt;/li&gt;
-&lt;li&gt;Copmuter Organization&lt;/li&gt;
-&lt;li&gt;Computer Networking&lt;/li&gt;
-&lt;li&gt;Database System&lt;/li&gt;
-&lt;li&gt;System Programming&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Linear Algebra&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Probabilities&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Information Technology&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Data Structure&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Operation System&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Logic Design&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Computer Organization&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Computer Networking&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Database System&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;System Programming&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&quot;Upload-Notes&quot;&gt;&lt;a href=&quot;#Upload-Notes&quot; class=&quot;headerlink&quot; title=&quot;Upload Notes&quot;&gt;&lt;/a&gt;Upload Notes&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;CSAPP&lt;/li&gt;

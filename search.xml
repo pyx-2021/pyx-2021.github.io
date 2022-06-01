@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>Make Tutorial</title>
+      <link href="/Make-Tutorial/"/>
+      <url>/Make-Tutorial/</url>
+      
+        <content type="html"><![CDATA[<p>一个简单的make教程，结合了本人的使用经验以及官方文档，总结的最为实用的make知识。</p><p>先占坑，把PDF和视频放上来，文字部分以后有空再补。</p><p>教授要求英文，作者口语不好，建议直接看PDF就好了。<br>更新：视频太大了，而且质量也不高，就不传了。</p><span id="more"></span><center><embed src="/Make-Tutorial/Make.pdf" width="1000" height="800"></center>]]></content>
+      
+      
+      <categories>
+          
+          <category> Linux </category>
+          
+          <category> make </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> tutorial </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>CSAPP-前言</title>
       <link href="/IntroCSAPP/"/>
       <url>/IntroCSAPP/</url>
@@ -35,7 +62,7 @@
       <link href="/IntroPost/"/>
       <url>/IntroPost/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to my 1<sup>st</sup>  <a href="https://pyx-2021.github.io/">csblog</a>!!!</p><p>For more info about the author, check <a href="https://pyx-2021.github.io/about/me">About Me</a>.</p><h3 id="Objectives"><a href="#Objectives" class="headerlink" title="Objectives"></a>Objectives</h3><h4 id="Record-Learning-Route"><a href="#Record-Learning-Route" class="headerlink" title="Record Learning Route"></a>Record Learning Route</h4><ul><li>Data Structure</li><li>Operation System</li><li>Copmuter Organization</li><li>Computer Networking</li><li>Database System</li><li>System Programming</li></ul><h4 id="Upload-Notes"><a href="#Upload-Notes" class="headerlink" title="Upload Notes"></a>Upload Notes</h4><ul><li>CSAPP</li><li>…</li></ul><h4 id="Personal-Profile"><a href="#Personal-Profile" class="headerlink" title="Personal Profile"></a>Personal Profile</h4><span id="more"></span><figure class="highlight c"><figcaption><span>可选文件名 &gt;folded</span></figcaption><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">???</span><br></pre></td></tr></tbody></table></figure>]]></content>
+        <content type="html"><![CDATA[<p>Welcome to my 1<sup>st</sup>  <a href="https://pyx-2021.github.io/">csblog</a>!!!</p><p>For more info about the author, check <a href="https://pyx-2021.github.io/about/me">About Me</a>.</p><h3 id="Objectives"><a href="#Objectives" class="headerlink" title="Objectives"></a>Objectives</h3><h4 id="Record-Learning-Route"><a href="#Record-Learning-Route" class="headerlink" title="Record Learning Route"></a>Record Learning Route</h4><ul><li><p>Linear Algebra</p></li><li><p>Probabilities</p></li><li><p>Information Technology</p></li><li><p>Data Structure</p></li><li><p>Operation System</p></li><li><p>Logic Design</p></li><li><p>Computer Organization</p></li><li><p>Computer Networking</p></li><li><p>Database System</p></li><li><p>System Programming</p></li></ul><h4 id="Upload-Notes"><a href="#Upload-Notes" class="headerlink" title="Upload Notes"></a>Upload Notes</h4><ul><li>CSAPP</li><li>…</li></ul><h4 id="Personal-Profile"><a href="#Personal-Profile" class="headerlink" title="Personal Profile"></a>Personal Profile</h4><span id="more"></span><figure class="highlight c"><figcaption><span>可选文件名 &gt;folded</span></figcaption><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">???</span><br></pre></td></tr></tbody></table></figure>]]></content>
       
       
       <categories>
